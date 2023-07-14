@@ -53,4 +53,5 @@ body {
   border-bottom: 2px solid rgba(34, 34, 124, 0.504);
   cursor: pointer;
   font-family: "VT323", monospace;
+  letter-spacing: 1px;
 }

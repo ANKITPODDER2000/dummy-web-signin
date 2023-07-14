@@ -18,8 +18,9 @@ body {
   font-family: "VT323", monospace;
 }
 body h1 {
-  font-size: 64px;
+  font-size: 90px;
   margin-bottom: 32px;
+  letter-spacing: 2px;
 }
 body a {
   padding: 16px 48px;
@@ -27,6 +28,7 @@ body a {
   color: #fff;
   text-decoration: none;
   font-weight: bold;
+  font-size: 28px;
 }
 body a:hover {
   transition: 0.5s;
